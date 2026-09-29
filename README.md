@@ -34,8 +34,7 @@ Right now I'm **open to internship and project opportunities** and always up for
 - 🎓 Second-year CS @ University of Toronto
 - 🤝 VP Internal Affairs @ **UTMIST** · Software Developer @ **UofT Blueprint**
 - 🏆 Built **T-Care**, a *HackTheStudentLife 2026* winner
-- 📱 Currently building a mobile app for **The Period Purse** in React Native
-- 💬 Ask me about full-stack apps, hackathons, or applied AI
+- 📱 Currently building a mobile app for **The Period Purse** in React Native at **UofT Blueprint**
 
 ## 🛠️ Tech I work with
 
@@ -72,16 +71,9 @@ Right now I'm **open to internship and project opportunities** and always up for
 | 📺 [**AniTracker**](https://github.com/ryantrain/AniTracker) | An anime watchlist + progress tracker built on the Jikan REST API. | Python · SQLAlchemy · JS |
 | 🐱 [**MeowMirror**](https://github.com/pusheen5000000/MeowMirror) | An interactive mirror that maps your facial expressions to cat emotions with OpenCV. | Python |
 | ⏱️ [**GitStream**](https://github.com/ryantrain/GitStream) | Predicts pull-request durations from historical data and code changes. | Python · HTML · CSS |
-| 🎮 [**Wukong's Journey**](https://github.com/ryantrain/Wukong-s-Journey) | A 2D platformer inspired by *Journey to the West*, built in Java Processing. | Java |
 
 > More on my [portfolio →](https://ryantrain.github.io)
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ryantrain&show_icons=true&hide_border=true&title_color=f2b84b&icon_color=6ee7c8&text_color=e7e6ea&bg_color=12141c" alt="Ryan's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryantrain&layout=compact&hide_border=true&title_color=f2b84b&text_color=e7e6ea&bg_color=12141c" alt="Top languages"/>
-</p>
 
 ## 📫 Get in touch
 
