@@ -19,7 +19,8 @@ const ryan = {
   currentlyBuilding: [
     "A mobile app for The Period Purse @ UofT Blueprint (React Native)",
   ],
-  roles: ["VP Internal Affairs @ UTMIST"],
+  roles: ["VP Internal Affairs @ UTMIST",
+          "Software Developer @ UofT Blueprint"],
   interests: ["software architecture", "UX design", "applied AI", "shipping"],
   status: "open to internships & collaboration → let's talk",
 };
